@@ -13,7 +13,10 @@ body{
 .header-title{
     font-family: 'Berkshire Swash', cursive;
 }
-
+.input-box{
+    width: 121px;
+    height: 25px;
+}
 
 
 
